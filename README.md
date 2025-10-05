@@ -41,18 +41,14 @@ cd /var/log/netdata
 ls -l
 ```
 
-## Deliverables
+## Screenshots
 
-### 1. Dashboard (CPU, Memory, Disk)
 ![Dashboard](images/img1.jpg)
 
-### 2. Docker Container Metrics
 ![Docker Metrics](images/img2.jpg)
 
-### 3. Alerts Panel
 ![Alerts Panel](images/img3.jpg)
 
-### 4. Extra Screenshot
 ![Extra](images/img4.jpg)
 
 ## Outcome
