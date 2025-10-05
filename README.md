@@ -41,6 +41,14 @@ cd /var/log/netdata
 ls -l
 ```
 
+##Stop Netdata
+To stop and remove the container:
+
+```bash
+docker stop netdata
+docker rm netdata
+```
+
 ## Screenshots
 
 ![Dashboard](images/img1.jpg)
