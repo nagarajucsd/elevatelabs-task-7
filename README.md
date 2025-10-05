@@ -41,7 +41,7 @@ cd /var/log/netdata
 ls -l
 ```
 
-##Stop Netdata
+## Stop Netdata
 To stop and remove the container:
 
 ```bash
