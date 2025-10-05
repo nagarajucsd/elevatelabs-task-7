@@ -42,9 +42,18 @@ ls -l
 ```
 
 ## Deliverables
-- Screenshot of dashboard (CPU, memory, disk usage)
-- Screenshot of Docker container metrics
-- Screenshot of alerts panel
+
+### 1. Dashboard (CPU, Memory, Disk)
+![Dashboard](images/img1.jpg)
+
+### 2. Docker Container Metrics
+![Docker Metrics](images/img2.jpg)
+
+### 3. Alerts Panel
+![Alerts Panel](images/img3.jpg)
+
+### 4. Extra Screenshot
+![Extra](images/img4.jpg)
 
 ## Outcome
 Understand lightweight server and app monitoring using Netdata.
